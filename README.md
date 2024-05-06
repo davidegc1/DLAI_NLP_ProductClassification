@@ -1,8 +1,6 @@
 # DLAI_NLP_ProductClassification
 Deep Learning and AI. Module 2 Intro to NLP Final Project: Text Classification
 
-Link to dataset: https://drive.google.com/file/d/1SbJ0pKdxPg7hND0LgRgqjH4Pnl1k97qZ/view?usp=sharing
-
 ## Ecommerce Text Classification
 ## Problem Statement
 
